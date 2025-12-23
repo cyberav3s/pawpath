@@ -1,7 +1,7 @@
 # example
 
 A Pet Adoption Flutter App
-[[alt text](https://ibb.co/5WcVCWVj][img]https://i.ibb.co/7JyFBJFp/image.png)]
+![alt text](https://ibb.co/5WcVCWVj][img]https://i.ibb.co/7JyFBJFp/image.png)
 
 ## Getting Started
 
