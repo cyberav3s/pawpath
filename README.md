@@ -2,7 +2,7 @@
 
 A Pet Adoption Flutter App
 
-![alt text](https://i.postimg.cc/dZTHcZ66/image.png)
+[![image.png](https://i.postimg.cc/wMwSJhsC/image.png)](https://postimg.cc/dZTHcZ66)
 
 ## Getting Started
 
