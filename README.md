@@ -1,11 +1,11 @@
 # example
 
 A Pet Adoption Flutter App
+Implementation of The Dog API.
 
 [![image.png](https://i.postimg.cc/wMwSJhsC/image.png)](https://postimg.cc/dZTHcZ66)
 
 ## Getting Started
-
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
